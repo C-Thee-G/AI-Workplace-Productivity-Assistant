@@ -74,18 +74,18 @@ When you first open the app, you'll see a **beautiful animated splash screen**:
 ### Real-Time Metrics Tracked
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  📊 ANALYTICS DASHBOARD                                 │
-├─────────────────────────────────────────────────────────┤
-│  📧 47 emails    📝 23 meetings    ✅ 56 tasks          │
-│  🔬 34 research  💬 128 chats      ⭐ 84/100 score      │
-│  ⚡ 1.2s avg     📅 23m session                        │
-├─────────────────────────────────────────────────────────┤
-│  [Donut Chart: Usage Distribution]  [Gauge: Productivity]│
-│  [Bar Chart: Weekly Activity]       [Line: Response Time]│
-├─────────────────────────────────────────────────────────┤
-│  [📥 Export CSV]  [🔄 Reset Analytics]                  │
-└─────────────────────────────────────────────────────────┘
+────────────────────────────────────────────────────────
+  📊 ANALYTICS DASHBOARD                                 
+────────────────────────────────────────────────────────
+  📧 47 emails    📝 23 meetings    ✅ 56 tasks        
+  🔬 34 research  💬 128 chats      ⭐ 84/100 score     
+  ⚡ 1.2s avg     📅 23m session                        
+─────────────────────────────────────────────────────────
+  [Donut Chart: Usage Distribution]  [Gauge: Productivity]
+  [Bar Chart: Weekly Activity]       [Line: Response Time]
+─────────────────────────────────────────────────────────
+  [📥 Export CSV]  [🔄 Reset Analytics]                 
+─────────────────────────────────────────────────────────
 ```
 
 ### 4 Interactive Charts
