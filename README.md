@@ -456,9 +456,8 @@ Avg: 1.1s ↓ improving
 
 - **Program:** AI Skill Accelerator Programme (ASA 3)
 - **Project:** AI-Powered Workplace Productivity Assistant
-- **Submitted by:** [Your Name]
-- **Date:** [Current Date]
-- **GitHub:** [Repository Link]
+- **Submitted by:** Mongiwethu Eddy Ncube
+- **Date:** 21/05/2026
 
 ---
 
@@ -492,4 +491,4 @@ This README includes everything:
 - ✅ CSV export
 - ✅ Professional formatting
 
-Just replace `[yourusername]`, `[Your Name]`, `[Current Date]`, and the demo links before submitting! 🚀
+Just replace `Mongiwethu Eddy Ncube`,  `21/05/2026`, and the demo links before submitting! 🚀
